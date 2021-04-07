@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="database.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="date.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="node.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="token.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="conditionParser.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="conditionParserTest.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="database.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="date.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="node.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="token.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="conditionParser.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="testRunner.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{37a77c27-fbf4-47e9-8307-1f3baaf4993d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{4820369c-9977-430a-b745-ff27279e4ce1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
